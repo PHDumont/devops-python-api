@@ -179,6 +179,7 @@ No `Dockerfile`, troque `--host 0.0.0.0` por `--host 127.0.0.1`. O processo inic
 
 ## Próximos desafios
 
+
 - Adicionar um endpoint `DELETE /tasks/{id}` e seus testes.
 - Executar os testes em uma matriz com Python 3.12, 3.13 e 3.14.
 - Publicar a imagem em um registry somente após a aprovação dos testes.
